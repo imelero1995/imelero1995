@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **custom projects**
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 👨‍💻 All of my projects are available at [r0shi.dev](r0shi.dev)
+- 👨‍💻 All of my projects will be available in a future on [r0shi.dev](r0shi.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
