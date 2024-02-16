@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **custom projects**
 
 - 👨‍💻 All of my projects will be available in a future on [r0shi.dev](r0shi.dev)
+- 👨‍💼 Owner of... (coming soon...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
