@@ -7,14 +7,11 @@ Developer
 Everything i know about coding are learned by myself, looking for official guides and also watching some tutorials, i love backend development.
 
 * 🌍  I'm based in Madrid, Spain
-* ✉️  You can contact me at [info@r0studios.dev](mailto:info@r0studios.dev)
+* ✉️  You can contact me at [contact@r0studios.dev](mailto:contact@r0studios.dev)
 * 🧠  I'm learning new frameworks and stacks
 
-<a href="https://www.github.com/imelero1995" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/imelero1995?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/r0shi95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/r0shi95?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/r0shi95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/r0shi95?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+## Found Me at Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/395699078283001867?bg=25252a&idleMessage=Thinking%20about%20life&theme=dark)](https://discord.com/users/395699078283001867)
 
 ### Skills
 
